@@ -7,10 +7,10 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/mauricio-bs/MoneyConverter?style=for-the-badge)
 
 
-<img src="./assets/project/App.jpg" width="130px" alt="currency-converter">
+<img src="assets/project/App.jpg" width="130px" alt="currency-converter">
 
 <p>Currency converter that convert BRL to USD, EU, and BTC</p>
-
+<p>Use app: <a hredf="https://mauricio-bs.github.io/MoneyConverter"></p>
 <br>
 
 ## 📫 Contributing to Money Converter
